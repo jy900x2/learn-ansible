@@ -1,2 +1,2 @@
 # learn-ansible
-Linux Academy Anisble course 
+Linux Academy Ansible course 
